@@ -1,0 +1,23 @@
+{
+  "name": "backwardclock",
+  "version": "1.0.0",
+  "description": "backward clock",
+  "main": "main.js",
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dythe/BackwardClock.git"
+  },
+  "author": "Jefferson Woon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dythe/BackwardClock/issues"
+  },
+  "homepage": "https://github.com/dythe/BackwardClock#readme"
+}
